@@ -1,0 +1,25 @@
+@media only screen and (max-width:500px){
+    .main .nav .nav2{width: 100%;}
+    .main .nav .nav4{width:100%;}
+    .main .nav .nav6{width: 100%;}
+    .main .input .input1{width: 100%;}
+    .main .input .input1 .in1{width: 100%;}
+    .main .input .input1 button{width: 100%;}
+    .nailpolish .np{width: 100%;}
+    .nailpolish .np1{width: 100%;}
+    /* .container .content1{width: 100%;}
+    .container .content2{width: 100%;} */
+    .mains .mains{width: 100%;}
+    .mains .mains1 .hex{width: 100%;}
+    /* .maha .maha1{width: 50%;} */
+    .port{width:100%;}
+    .verticle .verticle1{width: 100%;}
+    .verticle .verticle1 .gellery{width: 100%;}
+    .flag .flag2 .lite1{width: 100%;}
+    .flag .flag3{width:100%;}
+    .twopart .firstpart,.secondpart{width: 100%;}
+    .bit .bit1 .bitten1{width: 100%;}
+    .last .last1{
+        width: 100%;
+    }
+}
